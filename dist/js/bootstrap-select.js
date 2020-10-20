@@ -660,7 +660,7 @@
   var classNames = {
     DISABLED: 'disabled',
     DIVIDER: 'divider',
-    SHOW: 'open',
+    SHOW: 'show',
     DROPUP: 'dropup',
     MENU: 'dropdown-menu',
     MENURIGHT: 'dropdown-menu-right',
